@@ -35,25 +35,35 @@ technologies:
   -
     name: Ruby
     icon: ruby-plain colored
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ruby/ruby.png
+    description:
+      I'm a ruby developer with over 8 years of professional experience.
+      I'm an eloquent programmer with a deep knowledge in both Standard library and with most industry-standard gems.
   -
     name: Ruby on Rails
     icon: rails-plain colored
-    image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/rails/rails.png
+    description:
+      I enjoy writing maintanable, scalable code in complex applications.
+      I equally like writing both new feautres and refactoring existing ones.
   -
     name: PostgreSQL
     icon: postgresql-plain colored
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/postgresql/postgresql.png
+    description: 
+      I have a knack for solving complex SQL-related issues.
+      I can help you with performance optimisations, I can prepare some custom triggers or utilize one of the postgres extensions.
   -
     name: JavaScript
     icon: javascript-plain colored
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+    description:
+      I'm familiar with modern JS ecosystem.
+      I can write ES6+ code or help you with a transition to TypeScript.
   -
-    name: spacer
+    name:
   -
     name: React
     icon: react-plain colored
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
+    description:
+      I have experience with React+Redux applications.
+      I can create new one from scratch or work on an existing one.
 
 highlights:
   -
