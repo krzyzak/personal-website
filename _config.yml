@@ -18,9 +18,6 @@ defaults:
 
 projects:
   sort_by: stars
-  # sort_by options:
-  #   - pushed
-  #   - stars
   limit: 6
   exclude:
     forks: false
@@ -31,34 +28,31 @@ projects:
     - readability
 
 social_media:
-  # behance: your_username
-  # dribbble: your_username
   facebook: kkrzyzakk
   linkedin: krzyzak
-  # medium: @your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # youtube: your_username
-  # vk: your_username
 
 technologies:
   -
     name: Ruby
+    icon: ruby-plain colored
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ruby/ruby.png
   -
     name: Ruby on Rails
+    icon: rails-plain colored
     image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/rails/rails.png
   -
     name: PostgreSQL
+    icon: postgresql-plain colored
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/postgresql/postgresql.png
   -
     name: JavaScript
+    icon: javascript-plain colored
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
   -
-    name: ''
+    name: spacer
   -
     name: React
+    icon: react-plain colored
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
 
 highlights:
