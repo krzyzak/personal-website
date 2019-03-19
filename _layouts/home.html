@@ -12,6 +12,12 @@
       {% include projects.html %}
     </div>
 
+    {% if site.technologies %}
+      <div class="my-6">
+        {% include technologies.html %}
+      </div>
+    {% endif %}
+
     {% unless posts_total == 0 %}
       <div class="my-6">
         {% include thoughts.html %}
@@ -33,6 +39,10 @@
         {% endunless %}
 
         {% include projects.html %}
+
+        {% if site.technologies %}
+          {% include technologies.html %}
+        {% endif %}
 
         {% unless posts_total == 0 %}
           {% include thoughts.html %}
