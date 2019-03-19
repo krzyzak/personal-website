@@ -21,17 +21,23 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 19
+  include:
+    - gush
+    # - rails
   exclude:
-    forks: true
+    forks: false
     projects:
-    # - repo-name
+    - personal-website
+    - phony
+    - webmock
+    - readability
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
-  # linkedin: your_username
+  facebook: kkrzyzakk
+  linkedin: krzyzak
   # medium: @your_username
   # stackoverflow: your_user_id
   # telegram: your_username
