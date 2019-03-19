@@ -61,4 +61,54 @@ technologies:
     name: React
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
 
-
+highlights:
+  -
+    name: Toptal
+    description:
+      I'm working as a Core Team member, helping with building the largest network of the top freelance talents
+    image_url: assets/toptal.png
+    web_url: https://toptal.com
+    technologies:
+      -
+        name: ruby
+        icon: ruby-plain
+        description:
+          Working on large applications with hundreds of thousands of lines of code
+      -
+        name: postgres
+        icon: postgresql-plain
+        description:
+          Writing zero downtime migrations, optimizing queries, performing complex tree-based queries
+  -
+    name: Estetio
+    description:
+      I implemented a modern application for managing a beauty/hair salons.
+      This application uses a lot of cutting-edge technologies, including React+Redux, Typescript,
+      and a backend application written in Rails
+    image_url: assets/estetio.svg
+    web_url: https://estetio.pl
+    technologies:
+      -
+        name: react
+        icon: react-plain
+        description: Modern React+Redux application utilizing a lot of the cutting-edge technologies.
+      -
+        name: rails
+        icon: rails-plain
+        description: API-only application serving JSON data to the frontend app.
+  -
+    name: Lonely Planet
+    description:
+      I was working on a project that was focused on processing data coming from various partner APIs.
+      Task included aggregating, sanitizing and normalizing data from extremely diverse sources
+    image_url: assets/lp.png
+    web_url: https://lonelyplanet.com
+    technologies:
+      -
+        name: ruby
+        icon: ruby-plain
+        description: Non-rails application with a lot of performance optimizations
+      -
+        name: postgres
+        icon: postgresql-plain
+        description: Writing complex, performant queries, including some that have been using geospatial data (with postGIS extension)
