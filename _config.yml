@@ -6,27 +6,6 @@ plugins:
   - jekyll-github-metadata
   - jemoji
 
-permalink: /:year/:month/:day/:title/
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: "post"
-
-projects:
-  sort_by: stars
-  limit: 6
-  exclude:
-    forks: false
-    projects:
-    - personal-website
-    - phony
-    - webmock
-    - readability
-
 social_media:
   facebook: kkrzyzakk
   linkedin: krzyzak
@@ -116,3 +95,21 @@ highlights:
         name: postgres
         icon: postgresql-plain
         description: Writing complex, performant queries, including some that have been using geospatial data (with postGIS extension)
+
+repositories:
+  -
+    name: 'chaps-io/gush'
+    language: Ruby
+    description:
+      Fast and distributed workflow runner using ActiveJob and Redis.
+      Featured in RubyWeekly
+  -
+    name: 'aftership/aftership-sdk-ruby'
+    language: Ruby
+    description:
+      Official SDK for Aftership app.
+  -
+    name: 'postmen/postmen-sdk-ruby'
+    language: Ruby
+    description:
+      Official SDK for Postmen app.
