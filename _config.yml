@@ -102,7 +102,12 @@ repositories:
     language: Ruby
     description:
       Fast and distributed workflow runner using ActiveJob and Redis.
-      Featured in RubyWeekly
+      Featured in RubyWeekly.
+  -
+    name: 'chaps-io/gush-control'
+    language: CoffeeScript
+    description:
+      Web GUI for monitoring and managing Gush workflows.
   -
     name: 'aftership/aftership-sdk-ruby'
     language: Ruby
@@ -113,3 +118,13 @@ repositories:
     language: Ruby
     description:
       Official SDK for Postmen app.
+  -
+    name: 'hanami/controller'
+    language: Ruby
+    description:
+      Controller layer for the Hanami web framework.
+  -
+    name: 'plataformatec/simple_form'
+    language: Ruby
+    description:
+      One of the most popular gems that provides DSL for building forms in Rails.
