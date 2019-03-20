@@ -15,7 +15,7 @@ technologies:
     name: Ruby
     icon: ruby-plain colored
     description:
-      I'm a ruby developer with over 8 years of professional experience.
+      I'm a Ruby developer with over 8 years of professional experience.
       I'm an eloquent programmer with a deep knowledge of both standard library and most industry-standard gems.
   -
     name: Ruby on Rails
@@ -65,7 +65,7 @@ highlights:
   -
     name: Estetio
     description:
-      I implemented a modern application for managing a beauty/hair salons.
+      I implemented a modern application for managing beauty/hair salons.
       This application uses a lot of cutting-edge technologies, including React+Redux, Typescript,
       and a backend application written in Rails
     image_url: assets/estetio.svg
