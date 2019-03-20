@@ -37,12 +37,12 @@ technologies:
     icon: ruby-plain colored
     description:
       I'm a ruby developer with over 8 years of professional experience.
-      I'm an eloquent programmer with a deep knowledge in both Standard library and with most industry-standard gems.
+      I'm an eloquent programmer with a deep knowledge of both standard library and most industry-standard gems.
   -
     name: Ruby on Rails
     icon: rails-plain colored
     description:
-      I enjoy writing maintanable, scalable code in complex applications.
+      I enjoy writing maintanable, scalable, well tested code in complex applications.
       I equally like writing both new feautres and refactoring existing ones.
   -
     name: PostgreSQL
