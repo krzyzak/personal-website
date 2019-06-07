@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/krzyzak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://krzyzak.dev
+  * I am krzyzak (https://keybase.io/krzyzak) on keybase.
+  * I have a public key with fingerprint 0D79 242A 40A9 7957 3DAF  A0E9 FB7B 2F9A 7F6A 1520
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120de5bd7f142400f4fdec25342fd19691d815a99df1e7727fe7cc9f519d317148e0a",
+      "fingerprint": "0d79242a40a979573dafa0e9fb7b2f9a7f6a1520",
+      "host": "keybase.io",
+      "key_id": "fb7b2f9a7f6a1520",
+      "kid": "01013dc7d5561e0903924dffcb0e7192d8ad0cc4dcc9413c3c58b7b00cd8583354a80a",
+      "uid": "feb24e3548ec3b752453de5897e1b919",
+      "username": "krzyzak"
+    },
+    "service": {
+      "hostname": "krzyzak.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1559898503,
+  "expire_in": 157680000,
+  "prev": "f9767f3fa2b8d6998e3bc0f841fb528bc761f5e1187e0954322900e563b6d25f",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNoAnicbVJ7TBxFGD8qiDyDbY8UMQgbFUQeO7s7t7sHajV6xQiBeonVcpHu7sxy
+C3h33IsCohJKoCEpIkgItNYEDhX6wBeUiqZc0Foep1ZSpNU2TTCtXNukbUTAIu6i
+/cPE+Wcy3/xe35dvIuYeXWTIn7XZ3W+W6ZNDpsY7PTrL6mNNtYRoR9WEsZYoxxsX
+rkDY5S4pVxBhJEhAkQhDEbEyYCiGJGVGRliiIM1QMgK8gQeIA1DgeSQDzLIUK2NW
+kngZAh7RgAUMh0mByCBkxVaKnQ6nYnNrsojlKYYSGFLgWR6yNBJkgcS8LLIiJfMC
+KxsEAClSJVrtLo2hhhMFF85S7GpNfZRsxPsf/N3cJKCRxCIIDQCTPEmrfkiWJZHE
+LOApxAmIlCQGqVkZQEu0BDlViyQlxEGOpiEjcBu5Pf/4YJFisFrlsESLLKQYSKtj
+4XgWA5EHvAZ0YadNeA1rWZ011TVCOVGXQahFryJhba5aI/8FZCHsVZkOp91tl+wV
+6ofV7Xa4jBrRXe3QkFVYLPlXo0RUbEidosrwYqdLsdsII1CRklvRRAGEPMdzkKQz
+CLzXoThxiaIhIGvgSPVoPqqd2gvPGliZlgVK5JCB5zlMixIpcwyQRUhxosQagAwx
+AByrDg4yNEXxJImhgRYNiIIyoXVVabMTRopRcwqlqqZLKbUJbo8TE3X+cUuoLiRS
+d2/YJm29dJERcXeX7ouH43SfW4M39a8+Tb008HVoykXbMnyv72JvlH90/0DwaOf6
+/O3w6X0zfyy2Flydu/GNt/XW9v66Rnqh/wIenRRSe45VHaru/cC249qj3UwFb04O
+n6kYb4lZ6Du6heB2t3V11i7l0DBu1pQ2+WmE//hqb9Tp8u1d+Ztm/EaT762f9L89
+ScxPPpv4XHThQHxeTsHYmmnoy61LZ2dmB4ubJlYGEz7ZtacgkMalB27+0vdtwlDB
+81MjLv8u4dp188Q2v/ndheHKvJiGk6uZPeduvCwV+9fS6r/zZlsSEvoDWf0NSbGv
+e0znsG+44cW39WvOwo9/CJvbRwWqKFsTGaFP8MROOZY2LzY2ijXvM8DREdZ6JtgX
+mO88tW7xEfcVxQb3Nl35KLFZNxZ7pCyjNbv10nKI7o7HnNnQzj7TYY2OSuoJe+Dq
+5uYiXXTFkeBKMLmjQUnan5R6OMe3FPVQ/XJYiy//lXxXqFCvW0w3Gq47MhK3DMXs
+6TLlTZvl85+9Yz12/EPLmYkX+sTc9q/MJyKsg37xTmrlj6DyCeOhWw/GnQ/47tfH
+5hYPpU4DMbw9JUp5JH3Y9H1uPLyyczZv7eDZC5fZU21zlgMtVQ0tT10+Wdg/+kbN
+pqmy0+XzjzcX1pxYj6+Lm1y5ZP1r5PDoth1DKfR8d9nOrW3edWqkMeTXzNmfD1LR
+v+8uGrv9N/xvvBk=
+=On2l
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/krzyzak
+
+==================================================================
+
